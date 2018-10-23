@@ -1,4 +1,4 @@
-### GLPreviewCamera
+### TexturePreviewCamera
 
 1. 手动对焦、自动对焦
 2. 利用 TextureView 预览 camenra数据
